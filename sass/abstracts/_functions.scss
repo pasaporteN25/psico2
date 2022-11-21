@@ -1,3 +1,0 @@
-@function cols($size) {
-  @return calc((100% - (#{$gutter-horizontal} * (#{$size} - 1))) / #{$size});
-}
