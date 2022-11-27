@@ -119,107 +119,6 @@
           </div>
         </div>
       </section>
-      <section class="section-tours">
-        <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">¿Porque elegirnos?</h2>
-        </div>
-        <div class="row">
-          <div class="col-1-of-3">
-            <div class="card">
-              <div class="card__side card__side--front">
-                <div class="card__picture card__picture--1">&nbsp;</div>
-                <h4 class="card__heading">
-                  <span class="card__heading-span card__heading-span--1"
-                    >Profesionales UBA</span
-                  >
-                </h4>
-                <div class="card__details">
-                  <ul>
-                    <li>Weekly sessions</li>
-                    <li>Online service</li>
-                    <li>2 Professionals</li>
-                    <li>Get the best of you</li>
-                    <li>Job Secure</li>
-                  </ul>
-                </div>
-              </div>
-              <div class="card__side card__side--back card__side--back-1">
-                <div class="card__cta">
-                  <!-- <div class="card__price-box">
-                    <p class="card__price-only">Only</p>
-                    <p class="card__price-value">$297</p>
-                  </div> -->
-                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-1-of-3">
-            <div class="card">
-              <div class="card__side card__side--front">
-                <div class="card__picture card__picture--2">&nbsp;</div>
-                <h4 class="card__heading">
-                  <span class="card__heading-span card__heading-span--2">
-                    Las mejores Profesionales
-                  </span>
-                </h4>
-                <div class="card__details">
-                  <ul>
-                    <li>Weekly sessions</li>
-                    <li>Online service</li>
-                    <li>2 Professionals</li>
-                    <li>Get the best of you</li>
-                    <li>Job Secure</li>
-                  </ul>
-                </div>
-              </div>
-              <div class="card__side card__side--back card__side--back-2">
-                <div class="card__cta">
-                  <!-- <div class="card__price-box">
-                    <p class="card__price-only">Only</p>
-                    <p class="card__price-value">$456</p>
-                  </div> -->
-                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-1-of-3">
-            <div class="card">
-              <div class="card__side card__side--front">
-                <div class="card__picture card__picture--3">&nbsp;</div>
-                <h4 class="card__heading">
-                  <span class="card__heading-span card__heading-span--3"
-                    >La mejor atencion</span
-                  >
-                </h4>
-                <div class="card__details">
-                  <ul>
-                    <li>Weekly sessions</li>
-                    <li>Online service</li>
-                    <li>2 Professionals</li>
-                    <li>Get the best of you</li>
-                    <li>Job Secure</li>
-                  </ul>
-                </div>
-              </div>
-              <div class="card__side card__side--back card__side--back-3">
-                <div class="card__cta">
-                  <!-- <div class="card__price-box">
-                    <p class="card__price-only">Only</p>
-                    <p class="card__price-value">$789</p>
-                  </div> -->
-                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="u-center-text u-margin-top-huge">
-          <a href="" class="btn btn--green">Discover all Tours</a>
-        </div>
-      </section>
-
       <section class="section-stories">
         <div class="bg-video">
           <video class="bg-video__content" autoplay muted loop>
@@ -229,7 +128,7 @@
           </video>
         </div>
         <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">We make people gennuely happy!</h2>
+          <h2 class="heading-secondary">¿Porque elegirnos?</h2>
         </div>
 
         <div class="row">
@@ -244,7 +143,7 @@
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                I had the best week ever with my family
+                Profesionales egresadas de la UBA
               </h3>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -268,7 +167,7 @@
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Wow my life is completely different now
+                La mejor atencion psicologica
               </h3>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -281,7 +180,7 @@
           </div>
         </div>
         <div class="u-center-text u-margin-top-big">
-          <a href="#" class="btn-text">Read real stories! &rarr;</a>
+          <a href="#contact-us-section" class="btn-text">Contactenos &rarr;</a>
         </div>
       </section>
       <section class="section-book" id="contact-us-section">
@@ -297,7 +196,7 @@
                     type="text"
                     id="name"
                     class="form__input"
-                    placeholder="Full Name"
+                    placeholder="Nombre Completo"
                     required
                   />
                   <label for="name" class="form__label">Nombre Completo</label>
@@ -306,37 +205,21 @@
                   <input
                     type="email"
                     class="form__input"
-                    placeholder="Email Adress"
+                    placeholder="Correo Electronico"
                     id="email"
                     required
                   />
                   <label for="email" class="form__label">Correo Electronico</label>
                 </div>
-                <div class="form__group u-margin-bottom-medium">
-                  <div class="form__radio-group">
-                    <input
-                      type="radio"
-                      name="size"
-                      id="small"
-                      class="form__radio-input"
-                    />
-                    <label for="small" class="form__radio-label"
-                      ><span class="form__radio-button"></span> Small tour
-                      group</label
-                    >
-                  </div>
-                  <div class="form__radio-group">
-                    <input
-                      type="radio"
-                      name="size"
-                      id="large"
-                      class="form__radio-input"
-                    />
-                    <label for="large" class="form__radio-label"
-                      ><span class="form__radio-button"></span>Large tour
-                      group</label
-                    >
-                  </div>
+                <div class="form__group">
+                  <input
+                    type="text"
+                    id="telephone"
+                    class="form__input"
+                    placeholder="Numero Telefonico"
+                    required
+                  />
+                  <label for="name" class="form__label">Telefono</label>
                 </div>
                 <div class="form__group">
                   <button class="btn btn--green">Enviar &rarr;</button>
@@ -351,7 +234,7 @@
       <div class="footer__logo-box">
         <!--Cambiar este logo-->
         <img
-          src="img/logo-green-2x.png"
+          src="img/logo-brain-toppng.png"
           alt="Natours Logo"
           class="footer__logo"
         />
@@ -374,14 +257,8 @@
         </div>
         <div class="col-1-of-2">
           <p class="footer__copyright">
-            Built by <a href="#" class="footer__link">Jonas Schmedtmann</a> for
-            his online course
-            <a href="#" class="footer__link">Advanced CSS and Sass</a>.
-            Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use
-            this webpage for both personal and commercial use, but NOT to claim
-            it as your own design. A credit to the original author, Jonas
-            Schmedtmann, is of course highly appreciated!
-            Pensar que hacer aca
+            Built by <a href="#" class="footer__link">ANK group</a>
+            Copyright Images &copy; by Jonas Schmedtmann.
           </p>
         </div>
       </div>
