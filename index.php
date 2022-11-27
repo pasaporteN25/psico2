@@ -7,35 +7,35 @@
     <!-- <link rel="stylesheet" href="css/icon-font.css" /> -->
     <link rel="stylesheet" href="css/icon-font.css" />
     <link rel="stylesheet" href="css/style.css" />
-    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="img/brain-favicon-32x32.png" />
 
-    <title>Natours | Exciting tours for adventurous people</title>
+    <title> Psicologia en Buenos Aires</title>
   </head>
   <body>
     <header class="header">
       <div class="header__logo-box">
-        <img src="img/logo-white.png" alt="natours-logo" class="header__logo" />
+        <img src="img/logo-brain-toppng.png" alt="natours-logo" class="header__logo" />
       </div>
       <div class="header__text-box">
         <h1 class="heading-primary">
-          <span class="heading-primary--main">PSICOLOGIST </span>
-          <span class="heading-primary--sub">help yourself </span>
+          <span class="heading-primary--main">PSICOLOGIA</span>
+          <span class="heading-primary--sub"> Terapia Psicoanalitica </span>
         </h1>
 
-        <a href="#" class="btn btn--white btn--animated"
-          >Discover our professionals</a
+        <a href="#contact-us-section" class="btn btn--white btn--animated"
+          >Contactate con nosotros</a
         >
       </div>
     </header>
     <main>
       <section class="section-about">
         <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">Nice professionals for you!</h2>
+          <h2 class="heading-secondary">¡Las mejores profesionales!</h2>
         </div>
         <div class="row">
           <div class="col-1-of-2">
             <h3 class="heading-tertiary u-margin-bottom-small">
-              You are going to become a better you
+              Acompañamiento terapeutico todo el año
             </h3>
             <p class="paragraph">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo ea,
@@ -44,26 +44,26 @@
               officia vero!
             </p>
             <h3 class="heading-tertiary u-margin-bottom-small">
-              Discover your full potential
+              Profesionales de la salud
             </h3>
             <p class="paragraph">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo ea,
               explicabo natus eius expedita deserunt itaque.
             </p>
-            <a href="#" class="btn-text">Contact us! &rarr;</a>
+            <a href="#contact-us-section" class="btn-text">Contactanos! &rarr;</a>
           </div>
           <div class="col-1-of-2">
             <div class="composition">
               <img
-                src="img/nat-1-large.jpg"
+                src="img/mind-composition-1.jpg"
                 alt="photo1"
                 class="composition__photo composition__photo--p1"
               /><img
-                src="img/nat-2-large.jpg"
+                src="img/mind-composition-2.jpg"
                 alt="photo2"
                 class="composition__photo composition__photo--p2"
               /><img
-                src="img/nat-3-large.jpg"
+                src="img/mind-composition-3.jpg"
                 alt="photo3"
                 class="composition__photo composition__photo--p3"
               />
@@ -77,7 +77,7 @@
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-calendar"></i>
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Disponibility
+                Disponibilidad
               </h3>
               <p class="feature-box__text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -88,7 +88,7 @@
           <div class="col-1-of-4">
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-clockwise"></i>
-              <h3 class="heading-tertiary u-margin-bottom-small">Sessions</h3>
+              <h3 class="heading-tertiary u-margin-bottom-small">Sesiones</h3>
               <p class="feature-box__text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Accusantium culpa autem necessitatibus.
@@ -98,7 +98,7 @@
           <div class="col-1-of-4">
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-home"></i>
-              <h3 class="heading-tertiary u-margin-bottom-small">coziness</h3>
+              <h3 class="heading-tertiary u-margin-bottom-small">Comodidad</h3>
               <p class="feature-box__text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Accusantium culpa autem necessitatibus.
@@ -109,7 +109,7 @@
             <div class="feature-box">
               <i class="feature-box__icon icon-basic-sheet-pencil"></i>
               <h3 class="heading-tertiary u-margin-bottom-small">
-                Professionalism
+                Profesionalismo
               </h3>
               <p class="feature-box__text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -121,7 +121,7 @@
       </section>
       <section class="section-tours">
         <div class="u-center-text u-margin-bottom-big">
-          <h2 class="heading-secondary">Discover Our Professionals</h2>
+          <h2 class="heading-secondary">¿Porque elegirnos?</h2>
         </div>
         <div class="row">
           <div class="col-1-of-3">
@@ -130,7 +130,7 @@
                 <div class="card__picture card__picture--1">&nbsp;</div>
                 <h4 class="card__heading">
                   <span class="card__heading-span card__heading-span--1"
-                    >The mind exploration</span
+                    >Profesionales UBA</span
                   >
                 </h4>
                 <div class="card__details">
@@ -145,11 +145,11 @@
               </div>
               <div class="card__side card__side--back card__side--back-1">
                 <div class="card__cta">
-                  <div class="card__price-box">
+                  <!-- <div class="card__price-box">
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$297</p>
-                  </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  </div> -->
+                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
                 </div>
               </div>
             </div>
@@ -160,7 +160,7 @@
                 <div class="card__picture card__picture--2">&nbsp;</div>
                 <h4 class="card__heading">
                   <span class="card__heading-span card__heading-span--2">
-                    The forest hiker
+                    Las mejores Profesionales
                   </span>
                 </h4>
                 <div class="card__details">
@@ -175,11 +175,11 @@
               </div>
               <div class="card__side card__side--back card__side--back-2">
                 <div class="card__cta">
-                  <div class="card__price-box">
+                  <!-- <div class="card__price-box">
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$456</p>
-                  </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  </div> -->
+                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
                 </div>
               </div>
             </div>
@@ -190,7 +190,7 @@
                 <div class="card__picture card__picture--3">&nbsp;</div>
                 <h4 class="card__heading">
                   <span class="card__heading-span card__heading-span--3"
-                    >The snow Adventurer</span
+                    >La mejor atencion</span
                   >
                 </h4>
                 <div class="card__details">
@@ -205,11 +205,11 @@
               </div>
               <div class="card__side card__side--back card__side--back-3">
                 <div class="card__cta">
-                  <div class="card__price-box">
+                  <!-- <div class="card__price-box">
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$789</p>
-                  </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  </div> -->
+                  <a href="#contact-us-section" class="btn btn--white">Contactanos</a>
                 </div>
               </div>
             </div>
@@ -219,12 +219,13 @@
           <a href="" class="btn btn--green">Discover all Tours</a>
         </div>
       </section>
+
       <section class="section-stories">
         <div class="bg-video">
           <video class="bg-video__content" autoplay muted loop>
             <source src="img/video.mp4" type="video/mp4" />
             <source src="img/video.webm" type="video/webm" />
-            Your browser is not supported!
+            Su navegador no es soportado!
           </video>
         </div>
         <div class="u-center-text u-margin-bottom-big">
@@ -283,13 +284,13 @@
           <a href="#" class="btn-text">Read real stories! &rarr;</a>
         </div>
       </section>
-      <section class="section-book">
+      <section class="section-book" id="contact-us-section">
         <div class="row">
           <div class="book">
             <div class="book__form">
               <form action="#" class="form">
                 <div class="u-margin-bottom-medium">
-                  <h2 class="heading-secondary">Start Booking now</h2>
+                  <h2 class="heading-secondary">Solicite una cita</h2>
                 </div>
                 <div class="form__group">
                   <input
@@ -299,7 +300,7 @@
                     placeholder="Full Name"
                     required
                   />
-                  <label for="name" class="form__label">Full Name</label>
+                  <label for="name" class="form__label">Nombre Completo</label>
                 </div>
                 <div class="form__group">
                   <input
@@ -309,7 +310,7 @@
                     id="email"
                     required
                   />
-                  <label for="email" class="form__label">Email Address</label>
+                  <label for="email" class="form__label">Correo Electronico</label>
                 </div>
                 <div class="form__group u-margin-bottom-medium">
                   <div class="form__radio-group">
@@ -338,7 +339,7 @@
                   </div>
                 </div>
                 <div class="form__group">
-                  <button class="btn btn--green">Next step &rarr;</button>
+                  <button class="btn btn--green">Enviar &rarr;</button>
                 </div>
               </form>
             </div>
@@ -348,6 +349,7 @@
     </main>
     <footer class="footer">
       <div class="footer__logo-box">
+        <!--Cambiar este logo-->
         <img
           src="img/logo-green-2x.png"
           alt="Natours Logo"
@@ -359,19 +361,13 @@
           <div class="footer__navigation">
             <ul class="footer_list">
               <li class="footer__item">
-                <a href="#" class="footer__link">Company</a>
+                <a href="#" class="footer__link">Nosotros</a>
               </li>
               <li class="footer__item">
-                <a href="#" class="footer__link">Contact Us</a>
+                <a href="#" class="footer__link">Contactanos</a>
               </li>
               <li class="footer__item">
-                <a href="#" class="footer__link">Carrer</a>
-              </li>
-              <li class="footer__item">
-                <a href="#" class="footer__link">Privacy policy</a>
-              </li>
-              <li class="footer__item">
-                <a href="#" class="footer__link">Terms</a>
+                <a href="#" class="footer__link">Politica de Privacidad</a>
               </li>
             </ul>
           </div>
@@ -385,6 +381,7 @@
             this webpage for both personal and commercial use, but NOT to claim
             it as your own design. A credit to the original author, Jonas
             Schmedtmann, is of course highly appreciated!
+            Pensar que hacer aca
           </p>
         </div>
       </div>
